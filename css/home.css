@@ -11,7 +11,9 @@ body{
 }
 .main{
 
-    background-image: url("../image/tip_pic.avif");
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, 0.305), rgba(255, 255, 255, 0.372)),
+        url("../image/tip_pic.avif");
     width: 600px;
     height: 420px;
     padding: 20px;
